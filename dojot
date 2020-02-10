@@ -1,4 +1,1 @@
 git clone https://github.com/dojot/docker-compose.git 
-cd docker-compose 
-git checkout v0.4.1 -b v0.4.1
-docker-compose up -d
